@@ -11,7 +11,7 @@ let dados = [
       descricao: "Caetano Veloso é um cantor, compositor, músico e escritor brasileiro, uma das principais figuras da Tropicália. Sua obra, marcada pela inovação e pela mistura de diferentes estilos musicais, é considerada um marco da música brasileira.",
       link: "https://pt.wikipedia.org/wiki/Caetano_Veloso",
       redes: "https://www.instagram.com/caetanoveloso/",
-      tags: "veloso sozinho tropicalia"
+      tags: "veloso tropicália tropicalia"
     },
     {
       titulo: "Tom Jobim",
